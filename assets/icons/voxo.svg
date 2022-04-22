@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.319" height="17.137" viewBox="0 0 63.319 17.137">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_102" data-name="Path 102" d="M872.885,387.029l-5.3,13.8c-.314.8-.723,1.221-1.235,1.269a5.459,5.459,0,0,1-1.426-.041q-.655-.113-1.208-1.228L858.48,387a1.737,1.737,0,0,1,1.958-1.972c.826,0,1.365.232,1.6.689s1.46,3.971,3.651,10.536q3.265-9.847,3.671-10.516a1.8,1.8,0,0,1,1.6-.71c1.29,0,1.924.662,1.924,2" transform="translate(-858.48 -385.03)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="14.405" height="17.094"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_103" data-name="Path 103" d="M887.516,385.05h2.6q5.906,0,5.909,5.93v5.111q0,6.049-5.882,6.046h-2.682q-5.845,0-5.841-5.916v-5.234c.007-3.958,1.965-5.937,5.9-5.937m-.034,3.972a1.724,1.724,0,0,0-1.938,1.958v5.193c0,1.351.648,2.027,1.938,2.027h2.641a1.773,1.773,0,0,0,1.986-2.027v-5.241q0-1.9-1.986-1.9h-2.641Z" transform="translate(-881.62 -385.05)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="14.405" height="17.087"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_104" data-name="Path 104" d="M920.255,388.411l-10.106,12.931a1.737,1.737,0,0,1-2.771.184,1.823,1.823,0,0,1-.13-2.852l10.065-12.87a1.966,1.966,0,1,1,2.941,2.607m-12.877-2.8a1.767,1.767,0,0,1,2.825.2l10.065,12.87a1.827,1.827,0,0,1-.13,2.852,1.751,1.751,0,0,1-2.784-.184l-10.092-12.938A1.765,1.765,0,0,1,907.379,385.614Z" transform="translate(-906.624 -384.999)"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_27" data-name="Rectangle 27" width="14.262" height="17.128"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Path_105" data-name="Path 105" d="M936.056,385.05h2.6q5.906,0,5.909,5.93v5.111q0,6.049-5.882,6.046H936q-5.845,0-5.841-5.916v-5.234q0-5.937,5.9-5.937m-.041,3.972a1.719,1.719,0,0,0-1.931,1.958v5.193c0,1.351.648,2.027,1.931,2.027h2.641a1.773,1.773,0,0,0,1.986-2.027v-5.241q0-1.9-1.986-1.9h-2.641Z" transform="translate(-930.16 -385.05)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_52918" data-name="Group 52918" transform="translate(-65.353 -142.71)">
+    <g id="Group_26" data-name="Group 26" transform="translate(65.353 142.731)">
+      <g id="Group_25" data-name="Group 25" transform="translate(0)" clip-path="url(#clip-path)">
+        <g id="Group_24" data-name="Group 24" transform="translate(0.007 0)" clip-path="url(#clip-path-2)">
+          <rect id="Rectangle_22" data-name="Rectangle 22" width="14.406" height="17.096" transform="translate(-0.002 -0.001)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(81.143 142.745)">
+      <g id="Group_28" data-name="Group 28" clip-path="url(#clip-path-3)">
+        <g id="Group_27" data-name="Group 27" transform="translate(0.007)" clip-path="url(#clip-path-4)">
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="14.406" height="17.082" transform="translate(-0.003 -0.001)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(98.206 142.71)">
+      <g id="Group_31" data-name="Group 31" transform="translate(0 0)" clip-path="url(#clip-path-5)">
+        <g id="Group_30" data-name="Group 30" transform="translate(0.004 0.001)" clip-path="url(#clip-path-6)">
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="14.266" height="17.132" transform="translate(-0.001 0)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(114.266 142.745)">
+      <g id="Group_34" data-name="Group 34" clip-path="url(#clip-path-7)">
+        <g id="Group_33" data-name="Group 33" clip-path="url(#clip-path-4)">
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="14.406" height="17.082" transform="translate(0.003 -0.001)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
